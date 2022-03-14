@@ -506,10 +506,9 @@ body {
   padding: 0 1rem;
 }
 .footer .vision-logo img {
-  width: 20%;
-  margin-right: 460px;
+  width: 50%;
+  margin-right: 50px;
   margin-top: 20px;
-  border-radius: 30px;
 }
 
 /* media queries  */
@@ -625,7 +624,7 @@ body {
   }
   .footer .vision-logo img {
     width: 30%;
-    margin-right: 140px;
+    margin-right: 70px;
   }
 }
 
@@ -639,8 +638,8 @@ body {
   .footer .icons {
     padding: 2rem 0;
   }
-  .footer .vision-logo img {
-    width: 40%;
-    margin-right: 120px;
+  .footer .vision-logo {
+    width: 80%;
+    margin-right: 70px;
   }
 }
