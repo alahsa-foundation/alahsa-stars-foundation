@@ -342,7 +342,7 @@ body {
 
 .team .row .card {
   height: 35rem;
-  width: 25rem;
+  width: 30rem;
   background: #fff;
   text-align: center;
   margin: 7rem 2rem;
@@ -357,10 +357,10 @@ body {
 }
 
 .team .row .card .image img {
-  height: 13rem;
-  width: 13rem;
-  border-radius: 50%;
-  border: 0.5rem solid #fff;
+  height: 17.8rem;
+  width: 14rem;
+  border-radius: 10%;
+  border: 0.2rem solid #fff;
   box-shadow: 0 0 0.5rem rgba(0, 0, 0, 0.3);
   object-fit: cover;
 }
@@ -376,7 +376,7 @@ body {
 }
 
 .team .row .card .info .icons a {
-  margin-top: 4rem;
+  margin-top: 1rem;
   padding: 0 1rem;
   font-size: 2rem;
   color: #333;
