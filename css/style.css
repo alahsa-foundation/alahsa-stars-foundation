@@ -341,7 +341,7 @@ body {
 }
 
 .team .row .card {
-  height: 35rem;
+  height: 40rem;
   width: 30rem;
   background: #fff;
   text-align: center;
@@ -353,14 +353,14 @@ body {
 
 .team .row .card .image {
   margin: 1rem 0;
-  padding-top: 4rem;
+  padding-top: 1rem;
 }
 
 .team .row .card .image img {
-  height: 17.8rem;
-  width: 14rem;
+  height: 25.1rem;
+  width: 18rem;
   border-radius: 10%;
-  border: 0.2rem solid #fff;
+  border: 0.1rem solid #fff;
   box-shadow: 0 0 0.5rem rgba(0, 0, 0, 0.3);
   object-fit: cover;
 }
