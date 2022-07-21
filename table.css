@@ -1,0 +1,27 @@
+table{
+	border:1px solid #222;
+	border-collapse:collapse;
+	width:100%;
+}
+th,td{
+	border:1px solid #222;
+	padding:.5rem;
+}
+th{
+	text-align:center;
+}
+caption{
+	font-size:4rem;
+	font-weight:bold;
+	padding:.3rem 0;
+}
+1{
+	font-size:16rem;
+}
+thead{
+	background:#333;
+	color:#fff;
+}
+tbody tr:nth-child(odd){
+	background:#ddd;
+}
