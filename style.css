@@ -172,7 +172,7 @@ nav ul li a {
 
 .qualities-container {
   display: flex;
-  justify-content: space-between;
+  justify-content: space-evenly;
   grid-gap: 2rem;
   padding-top: 5rem;
 }
