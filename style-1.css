@@ -15,15 +15,12 @@ body {
 }
  img {
   width: 20%;;
-  height: 20%;
+  height: 30%;
   text-align: center;
   margin: auto;
   display: flex;
   justify-content: center;
-    border-radius: 30px;
-
-
-  
+   
 }
 
 h1 {
