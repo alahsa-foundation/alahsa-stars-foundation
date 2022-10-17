@@ -7,15 +7,15 @@
 html {
   
   scroll-behavior: smooth;
-  display: flex;
-  justify-content: center;
+  
+  
 }
 body {
   font-family: "Tajawal", sans-serif;
   background: #d9e2ec;
   overflow-x: hidden;
-  display: flex;
-  justify-content: center;
+ 
+  
 }
  img {
  
