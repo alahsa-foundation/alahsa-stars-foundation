@@ -30,8 +30,8 @@ overflow:hidden;
   height:150px;
   margin:auto;
   width:150px;
-  text-align:center
-     display:flex;
+  text-align:center;
+  display:flex;
   justify-content: center;
 }
 
