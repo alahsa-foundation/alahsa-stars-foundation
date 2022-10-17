@@ -14,15 +14,13 @@ body {
   overflow-x: hidden;
 }
  img {
-  width: 400px;
-  height: 400px;
+  width: 50x;
+  height:40px;
   text-align: center;
   margin: auto;
   display: flex;
   justify-content: center;
-     border-radius: 50%; 
- -webkit-border-radius: 50%; 
-  -moz-border-radius: 50%;  
+   
    
 }
 
