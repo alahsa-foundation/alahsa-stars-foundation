@@ -7,10 +7,9 @@
 html {
   
   scroll-behavior: smooth;
-   
-  
   
 }
+
 body {
   font-family: "Tajawal", sans-serif;
   background: #d9e2ec;
@@ -30,7 +29,7 @@ overflow:hidden;
   margin:10px 2;
   width:150px;
   text-align:center;
-  display:inline;
+  display:flex;
   justify-content: center;
 }
 
