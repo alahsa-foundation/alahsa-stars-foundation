@@ -18,8 +18,8 @@ body {
   
 }
  img {
-   height:150%;
-   width:150%;
+   height:50%;
+   width:50%;
    text-align:center;
    display:flex;
    justify-content:center;
